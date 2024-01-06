@@ -1,0 +1,1 @@
+### **A CLI Script for generating portfolio analytics from MetaTrader Account History**
